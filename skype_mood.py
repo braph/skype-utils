@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/env python2
 # script to change Skype mood status, usage: skype_mood.py [new_mood]
  
 import dbus
